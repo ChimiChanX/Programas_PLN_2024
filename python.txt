@@ -3,3 +3,6 @@ Python es un lenguaje de programación de alto nivel, interpretado y de propósi
 Una de las características distintivas de Python es su amplia biblioteca estándar, que proporciona módulos y funciones predefinidos para una variedad de tareas, desde operaciones básicas hasta manipulación de datos, desarrollo web, networking y más. Esto facilita el desarrollo rápido de aplicaciones sin tener que escribir código desde cero para cada funcionalidad, ahorrando tiempo y esfuerzo.
 
 Python es un lenguaje versátil que se utiliza en una variedad de campos, desde el desarrollo de software y la automatización de tareas hasta la ciencia de datos, la inteligencia artificial y el aprendizaje automático. Su sintaxis limpia y su facilidad de aprendizaje lo convierten en una opción popular tanto para principiantes como para profesionales de la programación. La comunidad activa y colaborativa que respalda el desarrollo de Python ha contribuido a su evolución constante y a su posición destacada en el panorama de la programación. En resumen, Python es mucho más que un simple lenguaje de programación; es una herramienta poderosa y accesible que ha dejado una marca significativa en la informática moderna.
+
+
+ESTA ES EL ARCHIVO EDITADO.
