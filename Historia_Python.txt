@@ -1,0 +1,8 @@
+Python es el tercer lenguaje de programación más usado en el mundo.
+Pero este, ¿cómo ha llegado hasta este punto? Para dar respuesta a esto le
+vamos a hacer un repaso por toda la historia de Python. Desde la primera versión
+lanzada a finales de los años 80 hasta la última esta es aparecida este mismo año.
+
+Si estás aquí es porque o bien eres un programador experto o bien estás interesado en saber
+más sobre uno de los lenguajes de programación más importantes del momento.
+¡Has llegado al lugar indicado!
