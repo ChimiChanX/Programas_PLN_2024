@@ -14,6 +14,6 @@ with open(archivo_nombre,"r") as archivo:
 
 tokens=nltk.word_tokenize(texto,"spanish")
 riqueza_lexica=riqueza_lexica(tokens)
-print("----------------------------------------")
-print("La riqueza lexica es de",riqueza_lexica)
-print("----------------------------------------")
+print("-------------------------------------------------------------------")
+print("La riqueza lexica es de", riqueza_lexica)
+print("-------------------------------------------------------------------")
