@@ -12,6 +12,13 @@ for token in tokens:
     
 print("-----------------------------------------------------------------------------")
 # Aquí, nuestra lista de tokens se llama "tokens"
+tokens_conjunto=set(tokens)
+
 palabras_total=len(tokens)
-print(palabras_total)
+palabras_diferentes=len(tokens_conjunto)
+
+riqueza_lexica=palabras_diferentes/palabras_total
+
+print("la riqueza lexica es: ", riqueza_lexica)
 print("-----------------------------------------------------------------------------")
+
