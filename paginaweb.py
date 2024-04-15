@@ -21,7 +21,7 @@ def contar_palabras_y_lineas(url):
         print("Error al obtener la página:", response.status_code)
         return None
 
-url = 'https://acceso.mineduc.cl/wp-content/uploads/2021/06/Cuadernillo-Comprension-Lectora-adm2021.pdf'
+url = input("ingresa la direccion URL: ")
 resultado = contar_palabras_y_lineas(url)
 if resultado:
     num_palabras, num_lineas = resultado
